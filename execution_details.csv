@@ -1,0 +1,4 @@
+Order ID,Client Order ID,Instrument,Side,Execution Status,Quantity,Price
+123,456,Instrument A,1,Executed,10,99.99
+789,012,Instrument B,0,Pending,5,50
+345,678,Instrument C,1,Rejected,20,199.99
